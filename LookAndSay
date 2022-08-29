@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Processo Seletivo</title>
+</head
+<body>
+<h1>Look & Say</h1>
+<p><b>DESAFIO:</b><br/>Olhe e Diga.</p>
+<br/>
+<p><b>COMO PARTCIPAR:</b><br/>Edite o HTML deste arquivo. Atraves de JavaScript, ao clicar no botao "Resultado", a solucao deste problema devera ser impresso na tela.</p>
+<button onclick="LookAndSay()">Resultado</button><br/><br/>
+</body>
+
+<!--INICIO DO JAVSCRIPT-->
+<script>
+function LookAndSay() {
+document.write("Hello World");
+}
+</script>
+<!--FIM DO JAVASCRIPT-->
+
+</html>
