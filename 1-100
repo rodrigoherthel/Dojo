@@ -6,7 +6,7 @@
 </head
 <body>
 <h1>Processo Seletivo</h1>
-<p><b>DESAFIO:</b><br/>Escreva um programa que imprima numeros de 1 a 100. <br/>Para multiplos de 3 imprima "Spark" ao inves do numero. <br/>Para multiplos de 5 imprima "Systems" ao inves do numero. <br/>Para multiplos de 3 e 5 imprima "Spark Systems".</p>
+<p><b>DESAFIO:</b><br/>Escreva um programa que imprima numeros de 1 a 100. <br/>Para multiplos de 3 imprima "Coding" ao inves do numero. <br/>Para multiplos de 5 imprima "Dojo" ao inves do numero. <br/>Para multiplos de 3 e 5 imprima "Coding Dojo".</p>
 <br/>
 <p><b>COMO PARTCIPAR:</b><br/>Edite o HTML deste arquivo. Atraves de JavaScript, ao clicar no botao "Resultado", a solucao deste problema devera ser impresso na tela.</p>
 <button onclick="funcMultiplos()">Resultado</button><br/><br/>
