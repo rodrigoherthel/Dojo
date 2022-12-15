@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>SPARK</title>
+</head
+<body>
+<h1>Processo Seletivo</h1>
+<p><b>DESAFIO:</b><br/>Escreva um código que verifique se a palavra inserida é um palíndromo.</p>
+<br/>
+<p><b>COMO PARTICIPAR:</b><br/>Edite o HTML deste arquivo. Através de JavaScript, digite a palavra na caixa de texto e ao clicar no botão "Resultado", a solução deste problema deverá ser impresso na tela.</p>
+<input type="text" id="word" name="word">
+<button onclick="funcPalindromo(word)">Resultado</button><br/><br/>
+</body>
+<script>
+function funcPalindromo() {
+ var word = document.getElementById('word').value;
+ document.write(word);
+}
+</script>
+</html>
